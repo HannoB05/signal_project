@@ -1,3 +1,7 @@
+
+// Renamed the file to match wrong class declaration
+
+
 package com.cardio_generator.outputs;
 
 import java.io.IOException;
