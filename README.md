@@ -66,3 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Student IDs
 - Hanno Ballin: 6397524
+- Alexander Weinberger: 6403251
